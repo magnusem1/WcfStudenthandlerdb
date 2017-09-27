@@ -9,6 +9,7 @@ namespace WcfStudenthandlerdb
     [DataContract]
     public class Student
     {
+
         [DataMember]
         public int Id;
 
